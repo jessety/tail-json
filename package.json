@@ -1,6 +1,6 @@
 {
   "name": "tail-json",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Tail a file. If a line is valid JSON, parse and pretty-print it. Otherwise, just print it.",
   "homepage": "https://github.com/jessety/tail-json#readme",
   "bugs": {
