@@ -32,7 +32,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "tail-file": "^1.4.13"
+    "tail-file": "^1.4.15"
   },
   "devDependencies": {
     "@jessety/eslint-config": "^1.0.6",
